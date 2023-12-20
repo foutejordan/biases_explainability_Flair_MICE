@@ -1,0 +1,9 @@
+mice-main/.idea
+mice-main/download_models.sh
+Sentiment_analysis/.idea
+Sentiment_analysis/venv
+.idea
+mice-main/trained_predictors
+mice-main/results/imdb/editors
+mice-main/results/race
+mice-main/results/newsgroups
